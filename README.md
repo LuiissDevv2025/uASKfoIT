@@ -1,3 +1,9 @@
-Hey there, my name is Luis and this are my personal projects. I hope you enjoy them and see my progress. 
+Hey there, my name is Luis and this are my projects. Hope you enjoy them. 
 
-Fun Facts about me: I became interested in software development trough my experience playing videos games. While my focus now is to gain real experience in the field. I do wish to one day create my own game that people will enjoy. 
+Fun Facts: 
+  *I became interested in software trough videos games. One day I hope to make an amazing game people will enjoy. 
+  *I love to learn, so i am constantly studying.
+  *I love to travel and see different cultures. It's like watching a movie in real life. 
+  *Really, I am just living life, what else is there to do but to live. =)
+
+  
