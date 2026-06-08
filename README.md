@@ -1,11 +1,10 @@
-HI =): Welcome to my project's showcase. 
+Hey there! My name is Luis and this is the show case of my portfolio projects. 
 
-Note: This repo does not only showcase my main portfolio projects but the progress I have made as a developer. Each project comes with a "personal-note" that discussed my project creation and my "life" as a developer. 
+My main focus is on backend with some focus on frontend & yes there are many other technologies that I sue to make my projects come to life such as AWS (cloud) & others but the main focus is backend. 
 
-Fun Facts About Me: 
-  *I became interested in software trough videos games. One day I hope that I will too be able to create something that people can get lost in. 
-  *I enjoy learning, I am always reading a book weather it's part of the CS field or another profession. The more I learn the better my life becomes. 
-  *Traveling around the world has changed me as a person, hope to continue my adventures and see where it will lead me in life. 
-  *My favorite book is "So This is Love: A Twisted Tale". It's about the classical story of Cinderella and what would have happened if the prince never found her.. It show cases that if something is meant to be in life it will be. 
+You might ask yourself, why back end? The answer is fairly simple, backend is the layground to every application on the internet. You can grow on the top of it weather that's a web app to a world class game. Backend is our stepping stone to every future project we wish to create, without we are nothing. 
+
+I still have much more concepts to learn and my journey is just beginning, here is to the future. p.s. one day I hope to build an amazing game, it's what made me become interested in computer science in the first place [Black Ops Zombies =)]
+
 
   
